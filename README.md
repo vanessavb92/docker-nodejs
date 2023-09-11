@@ -1,8 +1,7 @@
-<span class="docker-blue">Docker-nodejs</span>
+Docker-node.js
 How to build docker image for nodejs apps
 
 ![docker-node](assets/node-js-docker.png)
-
 
 <style>
   .docker-blue {
