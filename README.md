@@ -1,7 +1,7 @@
 Docker-node.js
 How to build docker image for nodejs apps
 
-![docker-node](assets/node-js-docker.png)
+<img src="assets/node-js-docker.png" alt="docker-node" width="250" />
 
 <style>
   .docker-blue {
@@ -9,7 +9,6 @@ How to build docker image for nodejs apps
     font-weight: bold;
   }
 </style>
-
 
 <span class="docker-blue">Instale o Docker:</span>
 * Certifique-se de ter o Docker
