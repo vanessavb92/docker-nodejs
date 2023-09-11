@@ -4,12 +4,7 @@ How to build docker image for nodejs apps
 
 ![docker-node](assets/node-js-docker.png)
 
-<style>
-  .docker-blue {
-    color: #0078D6;
-    font-weight: bold;
-  }
-</style>
+
 
 
 <span class="docker-blue">Instale o Docker:</span>
